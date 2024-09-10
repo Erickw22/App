@@ -55,3 +55,8 @@ Como um lego, você irã utilizar peças para criar algoritimos ou seja, para re
 - [x] Criar, passar argumentos
 - [x] Executar
 - [x] arrow function / named function
+
+# Estrutura de repetição
+
+- [x] while
+-
