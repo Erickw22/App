@@ -9,11 +9,11 @@ Como um lego, você irã utilizar peças para criar algoritimos ou seja, para re
 
 - [x] Comentários
 - [x] Declaração de váriaveis (const, let)
-- Operadores (atribuição, concatenaçãom, matemáticos, lógicos)
-- Tipos de dados (string, number, boolean)
+- [x] Operadores (atribuição, concatenaçãom, matemáticos, lógicos)
+- [x] Tipos de dados (string, number, boolean)
 - [x] Estruturas de dados (functions, object, array)
-- Controle de fluxo (if/else)
-- Estruturas de repetição (for, while)
+- [x] Controle de fluxo (if/else)
+- [x] Estruturas de repetição (for, while)
 
 ## Fases da resolução de um problema
 
@@ -34,8 +34,9 @@ Como um lego, você irã utilizar peças para criar algoritimos ou seja, para re
 
 ## Operadores
 
-- [x] Operadores de atribuição de valor (=)
-- [x] Operador de concatenação (+)
+- [x] Operadores de atribuição de valor: (=)
+- [x] Operador de concatenação: (+)
+- [x] Operadores de comparação: (==, !=, < >, <=, >= )
 
 ## Estruturas de dados:
 
@@ -63,8 +64,13 @@ Como um lego, você irã utilizar peças para criar algoritimos ou seja, para re
 
 # Condicionais
  - [x] switch 
+ - [x] if/else
 
  ## Módulos em Node.js:
 
  - [x] Importação de módulo (require, CommonJS)
  - [z] Biblioteca 'inquirer' para criar prompts interativos
+
+ ## Programaçaõ assíncrona e promises:
+
+ - [x] Uso de funções assíncronas (async/await)
