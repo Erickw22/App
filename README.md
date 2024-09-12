@@ -10,9 +10,13 @@ O código JavaScript fornecido implementa um aplicativo de linha de comando simp
 **Funcionalidades Principais:**
 
 > Cadastro de Metas: Permite ao usuário adicionar novas metas à lista.
+
 > Listagem de Metas: Exibe todas as metas cadastradas, permitindo marcar as concluídas.
+
 > Consulta de Metas: Permite filtrar e visualizar metas realizadas ou abertas.
+
 > Deleção de Metas: Permite remover metas da lista.
+
 > Persistência: Salva as metas em um arquivo JSON para manter as informações entre as execuções do aplicativo.
 
 **Tecnologias Utilizadas:**
@@ -40,8 +44,11 @@ O código JavaScript fornecido implementa um aplicativo de linha de comando simp
 
 **Funcionalidades:**
 > Cadastro de metas: Adicione novas metas à sua lista.
+
 > Listagem de metas: Visualize todas as suas metas e marque as concluídas.
+
 > Consulta de metas: Filtre e visualize metas realizadas ou abertas.
+
 > Deleção de metas: Remova metas que não são mais relevantes.
 
 **Como usar:**
@@ -51,6 +58,7 @@ Ao iniciar o aplicativo, você será apresentado a um menu com as opções dispo
 O arquivo metas.json armazena as metas em um formato JSON. Cada meta é representada por um objeto com os seguintes campos:
 
 > value: A descrição da meta.
+
 > checked: Um booleano indicando se a meta foi concluída.
 
 Licença:
